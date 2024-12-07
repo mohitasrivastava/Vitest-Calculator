@@ -1,0 +1,2 @@
+ npm i -D vitest
+ npm t                          
